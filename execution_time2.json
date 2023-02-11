@@ -1,0 +1,1 @@
+{"import_time_csv": 5.142683029174805, "check_missing_data": 1.4913618564605713, "change_type_date": 1.6875314712524414, "rating_duplicate_line": 3.0790481567382812, "merge_tables": 1.9287548065185547, "final_load_delta": 3.892413854598999, "final_load_parquet": 28.895918607711792, "final_load_csv": 44.454047203063965}
