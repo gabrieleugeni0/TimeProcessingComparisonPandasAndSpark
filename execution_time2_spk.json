@@ -1,1 +1,1 @@
-{"import_time_csv": 4.452035188674927, "check_missing_data": 7.960012674331665, "change_type_date": 0.005509138107299805, "merge_tables": 0.006005287170410156}
+{"import_time_csv": 77.17034649848938, "check_missing_data": 62.11556959152222, "change_type_date": 0.030292987823486328, "check_duplicate_lines_movie_year": 0.04007720947265625, "merge_tables": 0.01758742332458496, "final_load_delta": 115.99717426300049, "final_load_parquet": 104.78375673294067, "final_load_csv": 155.35529255867004}
